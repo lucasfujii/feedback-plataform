@@ -43,3 +43,7 @@ Logo após, inicie o servidor através do comando:
     yarn dev
 
 Pronto!
+
+### Observação:
+
+_Certifique-se de ter feito start no projeto da API e ela se encontrar operando, pois se não o fizer, não irá listar os dados._
